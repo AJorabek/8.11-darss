@@ -1,4 +1,4 @@
-import './App.css'
+
 import HeaderSidebar from './components/HeaderSidebar'
 import HeroSidebar from './components/HeroSidebar'
 import LeftSidebar from './components/LeftSidebar'
